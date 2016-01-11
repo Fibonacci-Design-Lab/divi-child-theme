@@ -1,0 +1,43 @@
+
+/*
+ Theme Name:   Divi Starter Theme
+ Theme URI:    http://fibonaccidesignlab.com
+ Description:  Starter for Divi projects 
+ Author:       Rebekah Ralston
+ Author URI:   http://fibonaccidesignlab.com
+ Template:     Divi
+ Version:      1.0.0
+ */
+ 
+
+
+/* Large screens (1405px upwards) */
+@media only screen and ( min-width: 1405px ) { 
+    /* your css goes here */
+}
+
+/* Laptops and desktops (1100-1405px) */
+@media only screen and ( min-width: 1100px ) and ( max-width: 1405px) { 
+    /* your css goes here */
+}
+
+/* Tablets in landscape mode (981-1100px) */
+@media only screen and ( min-width: 981px ) and ( max-width: 1100px ) { 
+    /* your css goes here */
+}
+
+/* Tablets in portrait mode (768-980px) */
+@media only screen and ( min-width: 768px ) and ( max-width: 980px ) {
+    /* your css goes here */
+}
+
+/* Smartphones in landscape mode (480-768px) */
+@media only screen and ( min-width: 480px ) and ( max-width: 767px ) {
+    /* your css goes here */
+}
+
+/* Smartphones in portrait mode (0-479px) */
+@media only screen and ( max-width: 479px ) {
+    /* your css goes here */
+}
+
